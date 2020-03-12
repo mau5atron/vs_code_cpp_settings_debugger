@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "macOS",
+            "includePath": [
+              "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "${default}",
+            "browse": {
+              "limitSymbolsToIncludedHeaders": true,
+              "databaseFilename": "",
+              "path": [
+                  "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"
+              ]
+          }
+        }
+    ],
+    "version": 4
+}
